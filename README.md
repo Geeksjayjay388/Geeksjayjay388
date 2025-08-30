@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo23146
-Fork on GitHub7805
+
 <h1 align="center">Hi 👋, I'm Jacob Sihul</h1>
 <h3 align="center">A passionate Software Engineer from Nairobi, Kenya.Free to learn and explore new tech stuff and become the best there is,</h3>
 
