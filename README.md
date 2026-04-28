@@ -4,68 +4,73 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=200&section=header&text=Hi,%20I'm%20Jacob%20Sihul&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </div>
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Jacob%20Sihul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JacobSihul)
+[![Instagram](https://img.shields.io/badge/-jayjay__geeks-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jayjay_geeks)
+[![Gmail](https://img.shields.io/badge/-jacobsihul911@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacobsihul911@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Geeksjayjay388&color=007acc&style=for-the-badge&label=VIEWS)
+
+</div>
+
+---
+
 ### 👨‍💻 About Me
+I build things that scale — distributed systems, mobile apps, and lately, weaving AI into products that actually make a difference. Based in Nairobi, shipping to the world.
 
-A results-driven **Software Engineer** based in **Nairobi, Kenya**, dedicated to building high-performance, scalable distributed systems and seamless mobile experiences. I specialize in bridging the gap between robust backend architecture and intuitive user interfaces.
+Currently deep in **microservices architecture** and **AI integration** work. I care about clean APIs, fast mobile experiences, and infra that doesn't fall over at 3am.
 
-- 🌍  Based in **Nairobi, Kenya**
-- 🔭  Currently working on **Advanced Microservices & AI Integration**
-- ⚡  Expertise in **Full-Stack Development, Mobile Apps, and Cloud DevOps**
-- 📫  Reach me at: **[jacobsihul911@email.com](mailto:jacobsihul911@email.com)**
-
----
-
-### 🛠️ Languages and Tools
-
-<table align="center">
-  <tr>
-    <td align="center" width="100"><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=py,ts,js,java,c,php,html,css" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,next,tailwind,framer" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres,firebase" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><b>Mobile/ML</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=flutter,reactnative,tensorflow" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><b>DevOps/Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,azure,linux,git,postman,figma" />
-    </td>
-  </tr>
-</table>
+- 🔭 **Working on** — Advanced Microservices & AI-powered products
+- 🌍 **Based in** — Nairobi, Kenya
+- 📬 **Reach me** — [jacobsihul911@gmail.com](mailto:jacobsihul911@gmail.com)
 
 ---
 
-### 📊 GitHub Analytics
+## 🏗️ Things I've built
+
+**Distributed Task Queue** — Custom job queue system built on Node.js + Redis, handling 50k+ jobs/day with retry logic and real-time dashboarding.
+
+**📱 Cross-Platform Finance App** — Flutter app for personal budgeting with M-Pesa integration and offline-first sync.
+
+**🤖 AI Document Processor** — Django + TensorFlow pipeline that extracts structured data from scanned PDFs, reducing manual entry by ~80%.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geeksjayjay388&show_icons=true&theme=transparent&title_color=007acc&icon_color=007acc&text_color=555&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geeksjayjay388&layout=compact&theme=transparent&title_color=007acc&text_color=555&hide_border=true" />
+
+**Languages & Frontend**
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,c,php,react,nextjs,tailwind,html,css" />
+
+**Backend & Infrastructure**
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres,firebase,redis,docker,azure,kubernetes,linux" />
+
+**Mobile, AI & Design**
+<img src="https://skillicons.dev/icons?i=flutter,react,tensorflow,git,postman,figma" />
+
+</div>
+
+---
+
+## 📊 Real-Time Impact (Commits & Activity)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geeksjayjay388&show_icons=true&theme=transparent&title_color=007acc&icon_color=007acc&text_color=555&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geeksjayjay388&layout=compact&theme=transparent&title_color=007acc&text_color=555&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geeksjayjay388&theme=transparent&hide_border=true&stroke=007acc&ring=007acc&fire=007acc&currStreakNum=555" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Geeksjayjay388&bg_color=ffffff00&color=007acc&line=007acc&point=007acc&area=true&hide_border=true&custom_title=Commit+Velocity" width="100%" />
+</div>
+
 ---
 
-### 🏆 Recognitions & Trophies
+## 🏆 Trophies
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -75,14 +80,6 @@ A results-driven **Software Engineer** based in **Nairobi, Kenya**, dedicated to
 
 ---
 
-### ⚡ Find Me Online
-
-<p align="center">
-<a href="https://www.linkedin.com/in/JacobSihul" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jacob Sihul" /></a>
-<a href="https://www.instagram.com/jayjay_geeks" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="jayjay_geeks" /></a>
-<a href="mailto:jacob.sihul@email.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jacob" /></a>
-</p>
-
-<p align="center">
-  <i>"Building the future, one line of code at a time."</i>
-</p>
+<div align="center">
+<sub>Built in Nairobi · Deployed everywhere 🌍</sub>
+</div>
