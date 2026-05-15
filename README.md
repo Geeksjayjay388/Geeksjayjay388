@@ -34,6 +34,8 @@ Currently deep in **microservices architecture** and **AI integration** work. I 
 
 **🤖 AI Document Processor** — Django + TensorFlow pipeline that extracts structured data from scanned PDFs, reducing manual entry by ~80%.
 
+**Eco-sytem for a cyber cafe, connecting all the work computers wirelessly** - to avoid the hustle of transferring files using phsical storage devices or the need to setu a whatsapp account or a gmail account to the computer
+
 ---
 
 ## 🛠️ Tech Stack
